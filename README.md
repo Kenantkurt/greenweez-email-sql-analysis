@@ -1,4 +1,9 @@
 # 📊 Greenweez Email Campaign SQL Analysis
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![BigQuery](https://img.shields.io/badge/Platform-BigQuery-orange)
+![CRM](https://img.shields.io/badge/Domain-CRM%20Marketing-green)
+![Email Marketing](https://img.shields.io/badge/Focus-Email%20Campaign%20Analysis-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 This project analyzes the performance of Greenweez email campaigns using SQL on Google BigQuery.  
 It covers campaign exploration, KPI calculation, country-based segmentation, and A/B test performance comparison.
@@ -61,6 +66,30 @@ It covers campaign exploration, KPI calculation, country-based segmentation, and
 
 This project uses a demo dataset provided for educational and analytical purposes.  
 It contains **no personal or sensitive information**.
+
+---
+
+## 🚀 Future Improvements
+
+- Build dashboards for visual analysis (Looker Studio / Tableau)  
+- Automate A/B test KPI evaluation  
+- Add deeper segmentation (RFM, behavioral clusters)  
+- Expand analysis to multi-step CRM funnels  
+
+---
+
+## 📈 Repository Status
+
+Project completed and fully documented as part of a CRM analytics portfolio.
+
+
+---
+
+## 👤 Author
+
+Created by Kenan T.  
+Feel free to connect or reach out for data analytics collaborations.
+
 
 
 
