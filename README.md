@@ -12,7 +12,7 @@ It covers campaign exploration, KPI calculation, country-based segmentation, and
 
 ## 🎯 Objectives
 
-- Explore the structure of the `gwz_mail` table  
+- Explore the structure of the `gwz_mail` table 
 - Identify the largest campaigns by email volume  
 - Analyze campaign openings and clicks  
 - Filter newsletters by country (France 🇫🇷 vs Belgium 🇧🇪)  
