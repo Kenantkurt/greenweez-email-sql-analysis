@@ -1,1 +1,67 @@
-# greenweez-email-sql-analysis
+# 📊 Greenweez Email Campaign SQL Analysis
+
+This project analyzes the performance of Greenweez email campaigns using SQL on Google BigQuery.  
+It covers campaign exploration, KPI calculation, country-based segmentation, and A/B test performance comparison.
+
+---
+
+## 🎯 Objectives
+
+- Explore the structure of the `gwz_mail` table  
+- Identify the largest campaigns by email volume  
+- Analyze campaign openings and clicks  
+- Filter newsletters by country (France 🇫🇷 vs Belgium 🇧🇪)  
+- Calculate CRM marketing KPIs:
+  - **Opening Rate**  
+  - **Click Rate**  
+  - **CTR (Click-Through Rate)**  
+  - **Turnover per Mille**  
+- Compare the performance of two “Happy Hour” email versions (A/B test)
+
+---
+
+## 📂 Project Structure
+
+- 01_table_exploration.sql  
+- 02_campaign_overview.sql  
+- 03_distinct_campaigns.sql  
+- 04_top_openings.sql  
+- 05_top_clicks.sql  
+- 06_happyhour_campaign.sql  
+- 07_belgium_campaigns.sql  
+- 08_france_newsletters.sql  
+- 09_france_kpis.sql  
+- 10_happyhour_kpi_comparison.sql
+
+---
+
+## 🧠 Key Insights
+
+- Several Greenweez campaigns exceeded **10,000 openings**, indicating strong engagement.  
+- Click performance varies significantly between campaigns, showing different user behavior.  
+- French newsletters generally outperform Belgian newsletters in both opening and click metrics.  
+- KPI calculations reveal meaningful patterns that can guide CRM strategy and optimization.  
+- The “Happy Hour” A/B test showed measurable performance differences between the morning and noon versions.
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- SQL (Google BigQuery)  
+- Data exploration & segmentation  
+- CRM and email marketing analytics  
+- KPI calculation (open rate, click rate, CTR, turnover per mille)  
+- Pattern matching using LIKE and wildcards  
+- Query structuring, cleaning & organization  
+- A/B test analysis  
+
+---
+
+## 📌 Dataset
+
+This project uses a demo dataset provided for educational and analytical purposes.  
+It contains **no personal or sensitive information**.
+
+
+
+
