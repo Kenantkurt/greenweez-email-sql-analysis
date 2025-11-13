@@ -27,16 +27,17 @@ It covers campaign exploration, KPI calculation, country-based segmentation, and
 
 ## 📂 Project Structure
 
-- 01_table_exploration.sql  
-- 02_campaign_overview.sql  
-- 03_distinct_campaigns.sql  
-- 04_top_openings.sql  
-- 05_top_clicks.sql  
-- 06_happyhour_campaign.sql  
-- 07_belgium_campaigns.sql  
-- 08_france_newsletters.sql  
-- 09_france_kpis.sql  
-- 10_happyhour_kpi_comparison.sql
+- [01_table_exploration.sql](01_table_exploration.sql)  
+- [02_campaign_overview.sql](02_campaign_overview.sql)  
+- [03_distinct_campaigns.sql](03_distinct_campaigns.sql)  
+- [04_top_openings.sql](04_top_openings.sql)  
+- [05_top_clicks.sql](05_top_clicks.sql)  
+- [06_happyhour_campaign.sql](06_happyhour_campaign.sql)  
+- [07_belgium_campaigns.sql](07_belgium_campaigns.sql)  
+- [08_france_newsletters.sql](08_france_newsletters.sql)  
+- [09_france_kpis.sql](09_france_kpis.sql)  
+- [10_happyhour_kpi_comparison.sql](10_happyhour_kpi_comparison.sql)
+
 
 ---
 
