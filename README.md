@@ -75,7 +75,18 @@ It contains **no personal or sensitive information**.
 - Build dashboards for visual analysis (Looker Studio / Tableau)  
 - Automate A/B test KPI evaluation  
 - Add deeper segmentation (RFM, behavioral clusters)  
-- Expand analysis to multi-step CRM funnels  
+- Expand analysis to multi-step CRM funnels
+
+---
+
+## 📝 Conclusion
+
+This analysis provides a clear view of how Greenweez email campaigns perform across different audiences and message types.
+Overall engagement varies widely depending on the campaign structure, timing, and targeted country.
+French newsletters consistently achieved higher open and click rates compared to Belgium, indicating stronger subscriber engagement in that market. Campaigns that surpassed 10,000 openings demonstrated the potential of well-designed content combined with an aligned send time.
+KPI calculations revealed that certain campaigns generated strong click-through performance despite average open rates, suggesting that content relevance plays a major role once users open the email.
+The Happy Hour A/B test showed a measurable difference between the morning and noon versions, reinforcing the importance of testing send times to optimize engagement.
+These findings highlight the value of systematic CRM analytics, enabling teams to make data-driven decisions, refine targeting, and optimize future campaign performance.
 
 ---
 
